@@ -1,0 +1,26 @@
+.edit-panel {
+  width: 249px;
+  height: 100vh;
+  border-left: 3px solid rgb(228, 228, 228);
+  flex-shrink: 0;
+  /* background-color: rgb(228,228,228); */
+  background-image: linear-gradient(#5a629e, rgb(250, 250, 252));
+  padding: 20px;
+  color: rgb(228, 228, 228);
+  font: bold 15px "微软雅黑";
+}
+
+.edit-panel input {
+  font: bold 10px "微软雅黑";
+  color: #5a629e;
+}
+.edit-panel button {
+  font: bold 15px "微软雅黑";
+  border: 1px solid rgb(250, 250, 252);
+  border-radius: 8px;
+  color: #5a629e;
+}
+
+.text-config-item {
+  margin: 4px 0;
+}
